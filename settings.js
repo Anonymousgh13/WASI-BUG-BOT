@@ -3,14 +3,14 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 //contact details
-global.ownernomer = "923192173398"
-global.ownername = "🐛 MR WASI "
+global.ownernomer = "233534360096"
+global.ownername = "ANONYMOUS "
 global.ytname = "YT: Dont have"
 global.socialm = "GitHub: private"
 global.location = "Pakistan, Lahore"
 
 global.ownernumber = '923347748038'  //creator number
-global.ownername = ' MR WASI ' //owner name
+global.ownername = 'ANONYMOUS ' //owner name
 global.botname = 'WASI TECH BUG BOT ' //name of the bot
 
 //sticker details
@@ -18,7 +18,7 @@ global.packname = 'Sticker By'
 global.author = 'WASI'
 
 //console view/theme
-global.themeemoji = '🪀'
+global.themeemoji = '😒'
 global.wm = "WASI TECH"
 
 //theme link
@@ -52,13 +52,13 @@ global.bimg = '//9j/4AAQSkZJRgABAQAAAQABAAD/4gIoSUNDX1BST0ZJTEUAAQEAAAIYAAAAAAQw
 //reply messages
 global.mess = {
     done: 'Done !',
-    prem: 'This feature can be used by premium user only',
+    prem: 'This feature can be used by LEADER ONLY',
     admin: 'This feature can be used by admin only',
     botAdmin: 'This feature can only be used when the bot is a group admin ',
     owner: 'This feature can be used by owner only',
     group: 'This feature is only for groups',
     private: 'This feature is only for private chats',
-    wait: 'In process... ',    
+    wait: 'WAIT FOR DESTROYANCE... ',    
     error: 'Error!',
 }
 
